@@ -21,7 +21,7 @@ chmod +x install_ros2_humble.sh
 3) Install dependencies, copy the workspace to `~/ros2_ws`, and build:
 ```bash
 chmod +x install_ign_gz_landerpi.sh
-./install_ign_gz_landerpi.sh
+./install_gazebo_landerpi.sh
 ```
 This script:
 - Installs:
